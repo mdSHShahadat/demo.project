@@ -1,0 +1,6 @@
+C:\Users\Md.Shahadat\Google Drive\Career\BITM\Assignment\Day 1\PersonalDetailsConsoleApp\PersonalDetailsConsoleApp\bin\Debug\PersonalDetailsConsoleApp.exe.config
+C:\Users\Md.Shahadat\Google Drive\Career\BITM\Assignment\Day 1\PersonalDetailsConsoleApp\PersonalDetailsConsoleApp\bin\Debug\PersonalDetailsConsoleApp.exe
+C:\Users\Md.Shahadat\Google Drive\Career\BITM\Assignment\Day 1\PersonalDetailsConsoleApp\PersonalDetailsConsoleApp\bin\Debug\PersonalDetailsConsoleApp.pdb
+C:\Users\Md.Shahadat\Google Drive\Career\BITM\Assignment\Day 1\PersonalDetailsConsoleApp\PersonalDetailsConsoleApp\obj\Debug\PersonalDetailsConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Md.Shahadat\Google Drive\Career\BITM\Assignment\Day 1\PersonalDetailsConsoleApp\PersonalDetailsConsoleApp\obj\Debug\PersonalDetailsConsoleApp.exe
+C:\Users\Md.Shahadat\Google Drive\Career\BITM\Assignment\Day 1\PersonalDetailsConsoleApp\PersonalDetailsConsoleApp\obj\Debug\PersonalDetailsConsoleApp.pdb
